@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/e6i79gy6ar069gko?svg=true)](https://ci.appveyor.com/project/Alex37v2/hw-test-mode)
